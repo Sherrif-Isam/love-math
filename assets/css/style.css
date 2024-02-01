@@ -77,6 +77,7 @@ body {
     height: 40px;
     width: 80px;
     font-size: 1.2rem;
+    
 }
 
 .scores {
@@ -168,6 +169,7 @@ body {
     background-color: #445361;
     border: 1px transparent;
     border-radius: 20px;
+   
 }
 
 .btn--gray:active,
